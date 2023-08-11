@@ -1,0 +1,45 @@
+*
+body{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+background-color: #444444;
+font-family: "Noto Sans", sans-serif;
+text-decoration-skip-ink: auto;
+}
+
+.miband{
+
+font-family: Oswald, sans-serif;
+width:200px;
+height:400px;
+margin:200px;
+margin-left:45%;
+background-color:black;
+border:2px solid;
+border-color:silver;
+border-radius:30%;
+}
+#zegar{
+  color:#272d33;
+  font-size:50px; 
+  text-align:center;
+}
+#data{
+  color:#272d33;
+  font-size:25px;
+  text-align:center;
+}
+
+#steps{
+visibility:hidden;
+padding-top:30px;
+margin-left:31%;
+border-radius:50%
+}
+#puls{
+visibility:hidden;
+padding-top:30px;
+margin-left:31%;
+border-radius:50%
+}
